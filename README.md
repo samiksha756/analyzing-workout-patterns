@@ -39,7 +39,6 @@ analyzing-workout-patterns/
 # create data folder
 mkdir -p data
 # download both files (replace the URLs below with your direct asset links)
-curl -L "<PASTE_CARDIO_CSV_URL_HERE>" -o data/cardioActivities.csv
-curl -L "<PASTE_OPENPOWERLIFTING_CSV_URL_HERE>" -o data/openpowerlifting_090afd8.csv.gz
+curl -L (https://github.com/samiksha756/analyzing-workout-patterns/releases/tag/data-v1) -o data/cardioActivities.csv and data/openpowerlifting_090afd8.csv.gz
 ```
 
