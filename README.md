@@ -6,10 +6,10 @@ Includes a Jupyter Notebook, CSV data (downloadable from Releases), and a PDF ve
 ---
 
 ## What’s in this repo
-- `notebooks/Programming with Data midterm.ipynb` — main notebook
-- `reports/Programming with Data midterm.pdf` - write-up
-- `requirements.txt` — Python dependencies
-- Data (two CSVs) — **hosted in GitHub Releases** (see below)
+- `notebooks/Programming with Data midterm.ipynb` -> main notebook
+- `reports/Programming with Data midterm.pdf` -> write-up
+- `requirements.txt` -> Python dependencies
+- Data (two CSVs) -> **hosted in GitHub Releases** (see below)
 
 ---
 
