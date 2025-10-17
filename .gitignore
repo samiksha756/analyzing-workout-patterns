@@ -207,8 +207,8 @@ marimo/_lsp/
 __marimo__/
 
 # data & credentials
-data/
-*.csv
+!data/
+!data/*.csv
 *.zip
 kaggle.json
 .kaggle/
