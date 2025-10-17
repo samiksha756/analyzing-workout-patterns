@@ -18,7 +18,7 @@ Download both CSVs from the **Data files v1** release:
 
 - Both CSV files: **cardioActivities.csv**  and **openpowerlifting_090afd8.csv.gz** (or `.csv`)  
   <https://github.com/samiksha756/analyzing-workout-patterns/releases/tag/data-v1>  
-  Direct link: `(https://github.com/samiksha756/analyzing-workout-patterns/releases/download/data-v1/csv.data.files.zip)`
+  Direct link: `https://github.com/samiksha756/analyzing-workout-patterns/releases/download/data-v1/csv.data.files.zip`
 
 Place both files in a local folder named `data/` at the repo root:
 ```
